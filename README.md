@@ -9,3 +9,4 @@ This library was created as an example of how to publish your own Python package
 
 ## updating this package from GitHub
 'pip install --upgrade git+https://github.com/Wesley04/example-python-package.git' 
+"# mypackage" 
